@@ -9,8 +9,8 @@ with almost 7 years of experience in the IT industry. Solid domain on Node.js, A
 *   🌍  I'm based in Guadalajara
 *   🖥️  See my resume at [here](http://joelbarranco.io)
 *   ✉️  You can contact me at [hello@joelbarranco.io](mailto:hello@joelbarranco.io)
-*   🚀  I'm currently working on [Paystand](http://paystand.com)
-*   🧠  I'm learning Elixir
+*   🚀  I'm currently working on [WGU](https://www.wgu.edu/) as Tech Lead
+*   🧠  I'm learning Golang
 *   ⚡  I love ginger tea
 
 ### Skills 
